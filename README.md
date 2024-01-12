@@ -7,7 +7,7 @@
 
 
 <hr>
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 280px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
 
 <pre>
 💻 I am a self taught Full Stack Developer and a DevOps
