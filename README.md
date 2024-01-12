@@ -1,3 +1,6 @@
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 <h1 align="center">Hi 👋, I'm Nadun Idush</h1>
 <h3 align="center">A passionate DevOps from Sri Lanka</h3>
 
