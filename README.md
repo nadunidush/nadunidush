@@ -4,6 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadunidush&label=Profile%20views&color=0e75b6&style=flat" alt="nadunidush" /> </p>
 
 - 📫 How to reach me **nadunidushera8@gmail.com**
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
 <hr>
 
 <pre>
